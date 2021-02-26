@@ -1,0 +1,569 @@
+{
+    "air_p": {
+        "alias_CN": "大气压力",
+        "metric_unit": "kPa",
+        "value": 100.42617
+    },
+    "cdsor_water_level": {
+        "alias_CN": "凝汽器水位",
+        "metric_unit": "mm",
+        "value": 1060.822
+    },
+    "cdsor_water_level_end": {
+        "alias_CN": "memo_cn",
+        "metric_unit": "mm",
+        "value": 1051.361
+    },
+    "cdsor_water_level_start": {
+        "alias_CN": "memo_cn",
+        "metric_unit": "mm",
+        "value": 1075.699
+    },
+    "cond_water_flow_1": {
+        "alias_CN": "主凝结水流量1",
+        "metric_unit": "t/h",
+        "value": 734.52
+    },
+    "cond_water_flow_2": null,
+    "condpmp_out_p": {
+        "alias_CN": "凝结水泵出水压力",
+        "metric_unit": "MPa",
+        "value": 1.611
+    },
+    "cv_degree_1": {
+        "alias_CN": "#1高调门开度",
+        "metric_unit": "%",
+        "value": 98.958
+    },
+    "cv_degree_2": {
+        "alias_CN": "#2高调门开度",
+        "metric_unit": "%",
+        "value": 98.894
+    },
+    "cv_degree_3": {
+        "alias_CN": "#3高调门开度",
+        "metric_unit": "%",
+        "value": 99.542
+    },
+    "cv_degree_4": {
+        "alias_CN": "#4高调门开度",
+        "metric_unit": "%",
+        "value": 0.526
+    },
+    "cv_degree_5": {
+        "alias_CN": "#5高调门开度",
+        "metric_unit": "%",
+        "value": 18.628
+    },
+    "cv_degree_6": {
+        "alias_CN": "#6高调门开度",
+        "metric_unit": "%",
+        "value": 100.0
+    },
+    "dtr_body_p": {
+        "alias_CN": "除氧器筒体压力",
+        "metric_unit": "MPa",
+        "value": 0.672
+    },
+    "dtr_fdw_pin": {
+        "alias_CN": "进入除氧器凝结水压力",
+        "metric_unit": "MPa",
+        "value": 0.867
+    },
+    "dtr_fdw_tin": {
+        "alias_CN": "除氧器进水温度",
+        "metric_unit": "℃",
+        "value": 133.14
+    },
+    "dtr_stm_pin": {
+        "alias_CN": "除氧器进汽压力",
+        "metric_unit": "MPa",
+        "value": 0.69
+    },
+    "dtr_stm_tin": {
+        "alias_CN": "除氧器进汽温度",
+        "metric_unit": "℃",
+        "value": 345.57
+    },
+    "dtr_tout_a": {
+        "alias_CN": "除氧器出水温度A",
+        "metric_unit": "℃",
+        "value": 166.67
+    },
+    "dtr_tout_b": {
+        "alias_CN": "除氧器出水温度B",
+        "metric_unit": "℃",
+        "value": 167.78
+    },
+    "dtr_water_level": {
+        "alias_CN": "除氧器水位",
+        "metric_unit": "mm",
+        "value": 2267.761
+    },
+    "dtr_water_level_end": {
+        "alias_CN": "memo_cn",
+        "metric_unit": "mm",
+        "value": 2268.276
+    },
+    "dtr_water_level_start": {
+        "alias_CN": "memo_cn",
+        "metric_unit": "mm",
+        "value": 2270.966
+    },
+    "ex1_p": {
+        "alias_CN": "一段抽气压力",
+        "metric_unit": "MPa",
+        "value": 5.393
+    },
+    "ex1_t": {
+        "alias_CN": "一段抽汽温度",
+        "metric_unit": "℃",
+        "value": 380.43
+    },
+    "ex2_p": {
+        "alias_CN": "二段抽汽压力",
+        "metric_unit": "MPa",
+        "value": 3.238
+    },
+    "ex2_t": {
+        "alias_CN": "二段抽汽温度",
+        "metric_unit": "℃",
+        "value": 317.77
+    },
+    "ex3_p": {
+        "alias_CN": "三段抽汽压力",
+        "metric_unit": "MPa",
+        "value": 1.595
+    },
+    "ex3_t": {
+        "alias_CN": "三段抽汽温度",
+        "metric_unit": "℃",
+        "value": 461.51
+    },
+    "ex4_p": {
+        "alias_CN": "四段抽汽压力",
+        "metric_unit": "MPa",
+        "value": 0.717
+    },
+    "ex4_t": {
+        "alias_CN": "四段抽汽温度",
+        "metric_unit": "℃",
+        "value": 348.76
+    },
+    "ex4_to_ptrb_flow": {
+        "alias_CN": "四抽至小汽机进汽流量",
+        "metric_unit": "%",
+        "value": 34.18
+    },
+    "ex5_p": {
+        "alias_CN": "五段抽汽压力",
+        "metric_unit": "MPa",
+        "value": 0.227
+    },
+    "ex5_t": {
+        "alias_CN": "五段抽汽温度",
+        "metric_unit": "℃",
+        "value": 266.94
+    },
+    "ex6_p": {
+        "alias_CN": "六段抽汽压力",
+        "metric_unit": "MPa",
+        "value": 0.058
+    },
+    "ex6_t": {
+        "alias_CN": "六段抽汽温度",
+        "metric_unit": "℃",
+        "value": 199.61
+    },
+    "ex7_p": null,
+    "ex7_t": null,
+    "ex8_p": null,
+    "ex8_t": null,
+    "excit_crt": {
+        "alias_CN": "励磁电流",
+        "metric_unit": "A",
+        "value": 207.83
+    },
+    "excit_volt": {
+        "alias_CN": "励磁电压",
+        "metric_unit": "V",
+        "value": 1867.95
+    },
+    "fdw_p_a": {
+        "alias_CN": "最终给水压力1",
+        "metric_unit": "MPa",
+        "value": 18.023
+    },
+    "fdw_p_b": null,
+    "fdw_t_1": {
+        "alias_CN": "最终给水温度1",
+        "metric_unit": "℃",
+        "value": 270.4
+    },
+    "fdw_t_2": null,
+    "fdw_t_3": null,
+    "feed_water_flow": {
+        "alias_CN": "主给水流量",
+        "metric_unit": "t/h",
+        "value": 892.238
+    },
+    "gldhtr_fdw_tin": {
+        "alias_CN": "轴加进水温度",
+        "metric_unit": "℃",
+        "value": 38.25
+    },
+    "gldhtr_fdw_tout": {
+        "alias_CN": "轴加出水温度",
+        "metric_unit": "℃",
+        "value": 41.35
+    },
+    "high_volt_power_a": {
+        "alias_CN": "高厂变A功率",
+        "metric_unit": "MW",
+        "value": 13.88
+    },
+    "high_volt_power_b": null,
+    "hptout_p_lt": {
+        "alias_CN": "左侧高缸排汽压力",
+        "metric_unit": "MPa",
+        "value": 3.289
+    },
+    "hptout_p_rt": {
+        "alias_CN": "右侧高缸排汽压力",
+        "metric_unit": "MPa",
+        "value": 3.271
+    },
+    "hptout_t_lt": {
+        "alias_CN": "左侧高缸排汽温度",
+        "metric_unit": "℃",
+        "value": 319.05
+    },
+    "hptout_t_rt": {
+        "alias_CN": "右侧高缸排汽温度",
+        "metric_unit": "℃",
+        "value": 317.77
+    },
+    "htr1_fdw_tin": {
+        "alias_CN": "#1高加进水温度",
+        "metric_unit": "℃",
+        "value": 240.08
+    },
+    "htr1_fdw_tout": {
+        "alias_CN": "#1高加出水温度",
+        "metric_unit": "℃",
+        "value": 270.4
+    },
+    "htr1_stm_pin": {
+        "alias_CN": "#1高加进汽压力",
+        "metric_unit": "MPa",
+        "value": 5.363
+    },
+    "htr1_stm_tin": {
+        "alias_CN": "#1高加进汽温度",
+        "metric_unit": "℃",
+        "value": 378.58
+    },
+    "htr1_stm_tout": {
+        "alias_CN": "#1高加疏水温度",
+        "metric_unit": "℃",
+        "value": 248.22
+    },
+    "htr2_fdw_tin": {
+        "alias_CN": "#2高加进水温度",
+        "metric_unit": "℃",
+        "value": 204.33
+    },
+    "htr2_stm_pin": {
+        "alias_CN": "#2高加进汽压力",
+        "metric_unit": "MPa",
+        "value": 3.233
+    },
+    "htr2_stm_tin": {
+        "alias_CN": "#2高加进汽温度",
+        "metric_unit": "℃",
+        "value": 317.06
+    },
+    "htr2_stm_tout": {
+        "alias_CN": "#2高加疏水温度",
+        "metric_unit": "℃",
+        "value": 211.18
+    },
+    "htr3_fdw_tin": {
+        "alias_CN": "#3高加进水温度",
+        "metric_unit": "℃",
+        "value": 171.86
+    },
+    "htr3_stm_pin": {
+        "alias_CN": "#3高加进汽压力",
+        "metric_unit": "MPa",
+        "value": 1.567
+    },
+    "htr3_stm_tin": {
+        "alias_CN": "#3高加进汽温度",
+        "metric_unit": "℃",
+        "value": 461.5
+    },
+    "htr3_stm_tout": {
+        "alias_CN": "#3高加疏水温度",
+        "metric_unit": "℃",
+        "value": 184.05
+    },
+    "htr5_fdw_tin": {
+        "alias_CN": "#5低加进水温度",
+        "metric_unit": "℃",
+        "value": 102.41
+    },
+    "htr5_fdw_tout": {
+        "alias_CN": "#5低加出水温度",
+        "metric_unit": "℃",
+        "value": 133.92
+    },
+    "htr5_stm_pin": {
+        "alias_CN": "#5低加进汽压力",
+        "metric_unit": "MPa",
+        "value": 0.204
+    },
+    "htr5_stm_tin": {
+        "alias_CN": "#5低加进汽温度",
+        "metric_unit": "℃",
+        "value": 261.89
+    },
+    "htr5_stm_tout": {
+        "alias_CN": "#5低加疏水温度",
+        "metric_unit": "℃",
+        "value": 106.08
+    },
+    "htr6_fdw_tin": {
+        "alias_CN": "#6低加进水温度",
+        "metric_unit": "℃",
+        "value": 89.49
+    },
+    "htr6_fdw_tout": {
+        "alias_CN": "#6低加出水温度",
+        "metric_unit": "℃",
+        "value": 109.24
+    },
+    "htr6_stm_pin": {
+        "alias_CN": "#6低加进汽压力",
+        "metric_unit": "MPa",
+        "value": 0.06
+    },
+    "htr6_stm_tin": {
+        "alias_CN": "#6低加进汽温度",
+        "metric_unit": "℃",
+        "value": 198.95
+    },
+    "htr6_stm_tout": {
+        "alias_CN": "#6低加疏水温度",
+        "metric_unit": "℃",
+        "value": 99.77
+    },
+    "htr7_fdw_tin_a": null,
+    "htr7_fdw_tin_b": null,
+    "htr7_fdw_tout_a": {
+        "alias_CN": "#7A低加出水温度",
+        "metric_unit": "℃",
+        "value": 89.3
+    },
+    "htr7_fdw_tout_b": null,
+    "htr7_stm_pin_a": null,
+    "htr7_stm_pin_b": null,
+    "htr7_stm_tin_a": null,
+    "htr7_stm_tin_b": null,
+    "htr7_stm_tout_a": {
+        "alias_CN": "#7A低加疏水温度",
+        "metric_unit": "℃",
+        "value": 64.69
+    },
+    "htr7_stm_tout_b": null,
+    "htr8_fdw_tin_a": null,
+    "htr8_fdw_tin_b": {
+        "alias_CN": "#8B低加进水温度",
+        "metric_unit": "℃",
+        "value": 42.11
+    },
+    "htr8_fdw_tout_a": null,
+    "htr8_fdw_tout_b": null,
+    "htr8_stm_pin_a": null,
+    "htr8_stm_pin_b": null,
+    "htr8_stm_tin_a": null,
+    "htr8_stm_tin_b": null,
+    "htr8_stm_tout_a": {
+        "alias_CN": "#8A低加疏水温度",
+        "metric_unit": "℃",
+        "value": 43.81
+    },
+    "htr8_stm_tout_b": null,
+    "hw_water_t": {
+        "alias_CN": "热井水温",
+        "metric_unit": "℃",
+        "value": 38.69
+    },
+    "iptin_p_lt": {
+        "alias_CN": "左侧中压自动主汽门前压力",
+        "metric_unit": "MPa",
+        "value": 3.031
+    },
+    "iptin_p_rt": {
+        "alias_CN": "右侧中压自动主汽门前压力",
+        "metric_unit": "MPa",
+        "value": 3.031
+    },
+    "iptin_t_lt": {
+        "alias_CN": "左侧中压自动主汽门前温度",
+        "metric_unit": "℃",
+        "value": 546.55
+    },
+    "iptin_t_rt": null,
+    "iptout_p_1": {
+        "alias_CN": "中缸排汽压力1",
+        "metric_unit": "kPa",
+        "value": 762.886
+    },
+    "iptout_p_2": null,
+    "iptout_t_1": {
+        "alias_CN": "中缸排汽温度1",
+        "metric_unit": "℃",
+        "value": 348.76
+    },
+    "iptout_t_2": null,
+    "iptout_t_3": null,
+    "load": {
+        "alias_CN": "机组负荷",
+        "metric_unit": "MW",
+        "value": 300.039
+    },
+    "lptin_p_1": null,
+    "lptin_p_2": null,
+    "lptout_p_a": {
+        "alias_CN": "A低缸排汽压力(高压)",
+        "metric_unit": "kPa",
+        "value": 6.38368
+    },
+    "lptout_p_b": {
+        "alias_CN": "B低缸排汽压力(低压)",
+        "metric_unit": "kPa",
+        "value": 6.32925
+    },
+    "lptout_t_lt": {
+        "alias_CN": "左侧低压缸排汽温度",
+        "metric_unit": "℃",
+        "value": 37.44
+    },
+    "lptout_t_rt": {
+        "alias_CN": "右侧低压缸排汽温度",
+        "metric_unit": "℃",
+        "value": 38.907
+    },
+    "mainstm_p_lt": {
+        "alias_CN": "左侧自动主汽门前压力",
+        "metric_unit": "MPa",
+        "value": 16.687
+    },
+    "mainstm_p_rt": {
+        "alias_CN": "右侧自动主汽门前压力",
+        "metric_unit": "MPa",
+        "value": 16.718
+    },
+    "mainstm_t_lt": {
+        "alias_CN": "左侧自动主汽门前温度",
+        "metric_unit": "℃",
+        "value": 537.6
+    },
+    "mainstm_t_rt": {
+        "alias_CN": "右侧自动主汽门前温度",
+        "metric_unit": "℃",
+        "value": 535.967
+    },
+    "power": {
+        "alias_CN": "发电机功率",
+        "metric_unit": "MW",
+        "value": 300.039
+    },
+    "ptrb_stm_pin_a": {
+        "alias_CN": "A小机进汽压力",
+        "metric_unit": "MPa",
+        "value": 0.677
+    },
+    "ptrb_stm_pin_b": {
+        "alias_CN": "B小机进汽压力",
+        "metric_unit": "MPa",
+        "value": 0.684
+    },
+    "ptrb_stm_pout_a": {
+        "alias_CN": "A小机排汽压力",
+        "metric_unit": "kPa",
+        "value": -0.093
+    },
+    "ptrb_stm_pout_b": {
+        "alias_CN": "B小机排汽压力",
+        "metric_unit": "kPa",
+        "value": -0.093
+    },
+    "ptrb_stm_tin_a": {
+        "alias_CN": "A小机进汽温度",
+        "metric_unit": "℃",
+        "value": 344.49
+    },
+    "ptrb_stm_tin_b": {
+        "alias_CN": "B小机进汽温度",
+        "metric_unit": "℃",
+        "value": 343.61
+    },
+    "respry_water_flow_a": {
+        "alias_CN": "再热器一级减温水流量左侧",
+        "metric_unit": "t/h",
+        "value": 0.0
+    },
+    "respry_water_flow_b": {
+        "alias_CN": "再热器一级减温水流量右侧",
+        "metric_unit": "t/h",
+        "value": 0.0
+    },
+    "respry_water_p": {
+        "alias_CN": "再热器减温水压力",
+        "metric_unit": "MPa",
+        "value": 7.335
+    },
+    "respry_water_t": {
+        "alias_CN": "再热减温水温度",
+        "metric_unit": "℃",
+        "value": 167.32
+    },
+    "rglt_stage_p": {
+        "alias_CN": "调节级压力",
+        "metric_unit": "MPa",
+        "value": 11.055
+    },
+    "rglt_stage_t": {
+        "alias_CN": "调节级温度",
+        "metric_unit": "℃",
+        "value": 486.834
+    },
+    "supspry_water_1st_flow_a": {
+        "alias_CN": "过热器一级减温水流量(A)",
+        "metric_unit": "t/h",
+        "value": 54.92
+    },
+    "supspry_water_1st_flow_b": null,
+    "supspry_water_2nd_flow_a": {
+        "alias_CN": "过热器二级减温水流量(A)",
+        "metric_unit": "t/h",
+        "value": 9.99
+    },
+    "supspry_water_2nd_flow_b": {
+        "alias_CN": "过热器二级减温水流量(B)",
+        "metric_unit": "t/h",
+        "value": 2.13
+    },
+    "supspry_water_p": {
+        "alias_CN": "过热器减温水压力",
+        "metric_unit": "MPa",
+        "value": 18.111
+    },
+    "supspry_water_t": {
+        "alias_CN": "过热减温水温度",
+        "metric_unit": "℃",
+        "value": 268.63
+    }
+}
